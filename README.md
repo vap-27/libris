@@ -6,6 +6,8 @@ Every byte is engineered for enterprise-grade durability across **two independen
 
 ![stack](https://img.shields.io/badge/Next.js-16-black) ![ts](https://img.shields.io/badge/TypeScript-5-blue) ![db](https://img.shields.io/badge/TiDB-2%20clusters-red) ![backup](https://img.shields.io/badge/CockroachDB-backup%20engine-6933FF)
 
+#### *Live*: https://librisnotes.vercel.app/
+
 ---
 
 ## Architecture & Storage Engine
