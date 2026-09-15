@@ -149,7 +149,7 @@ Libris pairs TiDB Cloud Serverless clusters with a CockroachDB backup engine to 
 ### 1. Clone & Install Dependencies
 
 ```bash
-git clone https://github.com/your-username/libris.git
+git clone https://github.com/vap-27/libris.git
 cd libris
 npm install
 ```
